@@ -2,7 +2,7 @@ from typing import Any
 
 
 def apply(c: Any, config: Any, ctx: Any) -> None:
-    c.downloads.location.directory = "~/ai/"
+    c.downloads.location.directory = "~/a/"
     c.changelog_after_upgrade = "minor"
     c.editor.command = ["st", "-c", "float", "nvim", "-O", "{}"]
     c.spellcheck.languages = ["en-GB"]

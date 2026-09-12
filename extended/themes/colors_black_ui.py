@@ -26,8 +26,8 @@ c.colors.downloads.stop.bg                       = "black"
 c.colors.messages.info.bg                        = "black"
 c.colors.prompts.bg                              = "black"
 c.colors.prompts.border                          = "black"
+# non pure blacks
 c.colors.hints.bg                                = "rgba(0,0,0,0.6)" #"#CCCCCC"
-# non blacks
 c.colors.prompts.selected.bg                     = "#4779B3"
 c.colors.statusbar.passthrough.bg                = "#4779B3"
 c.colors.messages.error.bg                       = "#8A2F58"
